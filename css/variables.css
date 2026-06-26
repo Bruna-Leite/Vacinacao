@@ -1,0 +1,11 @@
+:root {
+    --letter-color: #0543FF;
+    --background-color: #DBDDDE;
+    --bodybackground-color: #1e1e1e;
+    --destack-color:#24276e;
+    
+    --font-base: "Roboto Mono", monospace;
+    
+    --radius: 8px;
+    --border-width: 2px;
+}

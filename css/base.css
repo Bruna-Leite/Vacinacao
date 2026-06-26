@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+  text-size-adjust: 100%;
+}
+
+body{
+    padding: 5px;
+    color:var(--letter-color);
+    background-color: var(--bodybackground-color);
+    font-family: var(--font-base);  
+}
+img, picture, video, canvas, svg {
+  max-width: 100%;
+  display: block;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6, a {
+  overflow-wrap: break-word;
+}
+h1,h2{
+  text-decoration: underline;
+  color:#24276e;
+  text-align: center;
+}
+b, a{
+  color:#AB1D13;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+th, td {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
